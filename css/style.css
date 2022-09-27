@@ -1019,10 +1019,6 @@ header .mega-menu .links li a i {
 }
 /* End pricing */
 /* start videos */
-.videos {
-  padding-top: var(--main-padding);
-  padding-bottom: var(--main-padding);
-}
 .videos .holder {
   display: flex;
   justify-content: center;
